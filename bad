@@ -1,2 +1,3 @@
 password = "secret"
 bad_code = "eval(x)"
+bad_code2 = "eval(y)"
