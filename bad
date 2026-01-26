@@ -1,1 +1,4 @@
-
+password = "secret"
+password2 = "secret2"
+bad_code = "eval(x)"
+bad_code2 = "eval(y)"
