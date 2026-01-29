@@ -10,6 +10,7 @@ def calculate_average(numbers):
 def find_item(items, target):
     i = 0
     # BUG: Infinite loop if target is not in items
+    exec("import sys")
     while i < len(items):
         if items[i] == target:
             return i
