@@ -36,4 +36,4 @@ class badClassName:
             print("Something went wrong")
 
 # 10. LIC-001: Restricted License Heade
-# This software is released under the GNU General Public License v3.0.0
+# This software is released under the GNU General Public License v3.0.
